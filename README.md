@@ -17,4 +17,4 @@ Temas disponibles:
   - [Descargando libros](https://github.com/adbenitez/deltachat-manual/blob/main/docs/books-download.md)
   - [Descubriendo usuarios y dándote a conocer](https://github.com/adbenitez/deltachat-manual/blob/main/docs/friends.md)
   - [Generar avatars desde Delta Chat](https://github.com/adbenitez/deltachat-manual/blob/main/docs/avatars.md)
-  - [Stickers en DeltaLab y DeltaLite](https://github.com/adbenitez/deltachat-manual/blob/main/docs/avatars.md)
+  - [Stickers en DeltaLab y DeltaLite](https://github.com/gilbertolazaro92/deltachat-manual/blob/main/docs/stickers.md)
